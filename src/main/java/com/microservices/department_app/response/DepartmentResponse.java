@@ -1,6 +1,6 @@
 package com.microservices.department_app.response;
 
-import jakarta.persistence.Column;
+
 import lombok.Data;
 
 @Data
